@@ -6,5 +6,5 @@
 python3 yourcode.py <年月日> <货币代码>
 
 执行第二段代码：
-python3 question2.py <char> <k>
+python3 question2.py <字符> <数字k>
 
